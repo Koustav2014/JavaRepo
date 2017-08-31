@@ -6,5 +6,7 @@ public class helloWorld {
 		System.out.println("Added newly");
 		System.out.println("Added newly");
 		System.out.println("Added newly");
+		System.out.println("Testing newly");
+		System.out.println("Testing only");
     }
 }
